@@ -18,10 +18,10 @@ React,TailWindCSS, 공공데이터
 - 공공데이터를 가지고와서 화면에 보이게 해줌 
 - Audio객체를 통해 홈페이지에서 BGM 재생 기능 구현
 
-<img width="1136" alt="스크린샷 2024-06-04 오전 12 38 16" src="https://github.com/choitoady/appleTV-project/assets/153695936/5140e249-47f8-4033-8e57-e70c59970dda">
+<img width="432" alt="스크린샷 2024-06-04 오전 12 39 59" src="https://github.com/choitoady/nature-hompage/assets/153695936/495725ad-62ed-40e8-86af-8bc2299e1e1c">
 
 
 ### 결과 및 성과 
-- 
+
 #### 과정기록
 https://velog.io/@on_light/개인프로젝트-디자인
