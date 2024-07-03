@@ -1,70 +1,27 @@
-# Getting Started with Create React App
+# 힐링컨셉 자연 사이트 (개인프로젝트)
+이 사이트에 방문하면 온통 자연이다. 오로지 자연 동영상, 자연 사진만 볼 수 있고, 자연 BGM까지 설정할 수 있는 기능을 만들어 
+온전한 쉼을 누릴 수 있는 사이트입니다. 
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+## 프로젝트 소개 
+ 너무나 바쁜 현대사회에서 쉼을 줄 수 있는 사이버 공간을 만들고싶다는 아이디어로 프로젝트를 시작하게 되었습니다.
 
-## Available Scripts
+## 개발 기간
+2024년 5/30일부터 - ing 
 
-In the project directory, you can run:
+## 기술 스택 
+React,TailWindCSS, 공공데이터 
 
-### `npm start`
+## 개발 인원 
+1명 <개인프로젝트> 
 
-Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
+## 핵심 기능 
+- 공공데이터를 가지고와서 화면에 보이게 해줌 
+- Audio객체를 통해 홈페이지에서 BGM 재생 기능 구현
 
-The page will reload when you make changes.\
-You may also see any lint errors in the console.
+<img width="1136" alt="스크린샷 2024-06-04 오전 12 38 16" src="https://github.com/choitoady/appleTV-project/assets/153695936/5140e249-47f8-4033-8e57-e70c59970dda">
 
-### `npm test`
 
-Launches the test runner in the interactive watch mode.\
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
-
-### `npm run build`
-
-Builds the app for production to the `build` folder.\
-It correctly bundles React in production mode and optimizes the build for the best performance.
-
-The build is minified and the filenames include the hashes.\
-Your app is ready to be deployed!
-
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
-
-### `npm run eject`
-
-**Note: this is a one-way operation. Once you `eject`, you can't go back!**
-
-If you aren't satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
-
-Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you're on your own.
-
-You don't have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn't feel obligated to use this feature. However we understand that this tool wouldn't be useful if you couldn't customize it when you are ready for it.
-
-## Learn More
-
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
-
-To learn React, check out the [React documentation](https://reactjs.org/).
-
-### Code Splitting
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/code-splitting](https://facebook.github.io/create-react-app/docs/code-splitting)
-
-### Analyzing the Bundle Size
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size](https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size)
-
-### Making a Progressive Web App
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app](https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app)
-
-### Advanced Configuration
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/advanced-configuration](https://facebook.github.io/create-react-app/docs/advanced-configuration)
-
-### Deployment
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/deployment](https://facebook.github.io/create-react-app/docs/deployment)
-
-### `npm run build` fails to minify
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
+### 결과 및 성과 
+- 
+#### 과정기록
+https://velog.io/@on_light/개인프로젝트-디자인
